@@ -53,7 +53,7 @@ https://github.com/user-attachments/assets/2788cb76-0aad-409d-863b-bc2e081c430e
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/nitish12rm/FlipkartGrid_Frontend
+   git clone https://github.com/Shashwat-srivastav/Flipkart_Grid/
    cd flutter-fruit-shelf-life
    ```
 2. **Install dependencies**:
